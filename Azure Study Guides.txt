@@ -1,0 +1,38 @@
+Azure Study Guides
+
+Azure Zero to Hero
+
+https://www.youtube.com/watch?v=10jm7Waan8M&list=PLdpzxOOAlwvIcxgCUyBHVOcWs0Krjx9xR
+
+https://www.youtube.com/watch?v=-5NzEDnYMck&list=PL6n9fhu94yhVIhqTz-LBfwgz_Amz7rRLp
+
+AZ-900 Fundamentals
+
+https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM
+
+AZ-104 Azure Administration
+
+https://www.youtube.com/watch?v=Mukn1dxW5sw&list=PLhLKc18P9YOAW3dKZaQ2xVYg8uE1m5Lp8
+
+https://www.youtube.com/watch?v=ytzL3b_N_2k&list=PLf2TKe70Vk1PhF_3GvHIu3UHZQze8zJGd
+
+https://www.youtube.com/watch?v=0Knf9nub4-k
+
+MS Learn Docs
+
+https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/?terms=az-104
+
+https://learn.microsoft.com/en-us/training/courses/az-104t00
+
+AZ-305 Azure Architect
+
+https://www.youtube.com/watch?v=vq9LuCM4YP4
+
+https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/
+
+https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=Az-305
+
+https://www.youtube.com/watch?v=i6NzKvGUsBs
+
+https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/?terms=AZ-305
+
